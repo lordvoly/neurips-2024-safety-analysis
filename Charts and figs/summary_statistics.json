@@ -1,0 +1,133 @@
+{
+  "total_papers": 1031,
+  "analysis_date": "2025-12-01T10:51:38.111122",
+  "question_coverage": {
+    "q1": {
+      "addressed": 993,
+      "with_concerns": 29
+    },
+    "q2": {
+      "addressed": 997,
+      "with_concerns": 29
+    },
+    "q3": {
+      "addressed": 1000,
+      "with_concerns": 34
+    },
+    "q4": {
+      "addressed": 1030,
+      "with_concerns": 972
+    },
+    "q5": {
+      "addressed": 966,
+      "with_concerns": 936
+    },
+    "q6": {
+      "addressed": 930,
+      "with_concerns": 929
+    },
+    "q7": {
+      "addressed": 993,
+      "with_concerns": 27
+    },
+    "q8": {
+      "addressed": 859,
+      "with_concerns": 9
+    },
+    "q9": {
+      "addressed": 1026,
+      "with_concerns": 893
+    },
+    "q10": {
+      "addressed": 978,
+      "with_concerns": 943
+    },
+    "q11": {
+      "addressed": 1023,
+      "with_concerns": 940
+    },
+    "q12": {
+      "addressed": 937,
+      "with_concerns": 923
+    },
+    "q13": {
+      "addressed": 945,
+      "with_concerns": 942
+    },
+    "q14": {
+      "addressed": 72,
+      "with_concerns": 3
+    },
+    "q15": {
+      "addressed": 1013,
+      "with_concerns": 10
+    }
+  },
+  "safety_taxonomy": {
+    "data_privacy_leakage": 138,
+    "data_consent_ethics": 1031,
+    "data_quality_integrity": 102,
+    "data_bias_representation": 51,
+    "model_robustness": 1022,
+    "model_interpretability": 975,
+    "model_security": 35,
+    "model_reliability": 86,
+    "misuse_potential": 1031,
+    "real_world_harm": 115,
+    "deployment_readiness": 27,
+    "fairness_violations": 955,
+    "bias_amplification": 36,
+    "reproducibility_concerns": 68,
+    "evaluation_validity": 13,
+    "environmental_impact": 320,
+    "resource_accessibility": 40
+  },
+  "use_cases": {
+    "healthcare": 454,
+    "finance": 1031,
+    "autonomous_systems": 352,
+    "content_moderation": 82,
+    "surveillance": 980,
+    "education": 1030,
+    "legal": 993,
+    "scientific_research": 1031,
+    "creative_tools": 1031,
+    "social_media": 1004
+  },
+  "research_areas": [
+    [
+      "computer_vision",
+      365
+    ],
+    [
+      "natural_language_processing",
+      235
+    ],
+    [
+      "theory",
+      230
+    ],
+    [
+      "reinforcement_learning",
+      140
+    ],
+    [
+      "generative_models",
+      61
+    ]
+  ],
+  "gaps": {
+    "papers_with_gaps": 96,
+    "total_unmapped_concerns": 235
+  },
+  "author_statements": {
+    "total_statements": 136,
+    "papers_with_statements": 121
+  },
+  "averages": {
+    "questions_addressed_per_paper": 13.348205625606207,
+    "safety_categories_per_paper": 5.863239573229874,
+    "severity_score_per_paper": 13.606207565470417,
+    "use_cases_per_paper": 7.747817652764306
+  }
+}
