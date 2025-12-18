@@ -1,0 +1,24 @@
+{
+  "total_assessments": 100,
+  "valid_structure": 100,
+  "missing_fields": 0,
+  "category_coverage": {
+    "data_privacy_leakage": 42,
+    "data_consent_ethics": 45,
+    "data_quality_integrity": 15,
+    "data_bias_representation": 58,
+    "model_robustness": 35,
+    "model_interpretability": 25,
+    "model_security": 61,
+    "model_reliability": 46,
+    "misuse_potential": 93,
+    "real_world_harm": 92,
+    "deployment_readiness": 71,
+    "fairness_violations": 79,
+    "bias_amplification": 75,
+    "reproducibility_concerns": 19,
+    "evaluation_validity": 6,
+    "environmental_impact": 33,
+    "resource_accessibility": 30
+  }
+}

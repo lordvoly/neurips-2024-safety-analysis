@@ -1,0 +1,8 @@
+{
+  "total": 100,
+  "successful": 100,
+  "failed": 0,
+  "json_parse_errors": 0,
+  "api_errors": 0,
+  "skipped": 20
+}
