@@ -1,0 +1,8 @@
+{
+  "macro_precision": 0.48776470588235293,
+  "macro_recall": 0.3519999999999999,
+  "macro_f1": 0.2914117647058823,
+  "macro_agreement": 0.5452941176470589,
+  "total_keyword_detections": 586,
+  "total_llm_detections": 825
+}

@@ -1,0 +1,47 @@
+{
+  "overall_metrics": {
+    "macro_precision": 0.48776470588235293,
+    "macro_recall": 0.3519999999999999,
+    "macro_f1": 0.2914117647058823,
+    "macro_agreement": 0.5452941176470589,
+    "total_keyword_detections": 586,
+    "total_llm_detections": 825
+  },
+  "high_agreement_categories": {
+    "evaluation_validity": 0.94,
+    "misuse_potential": 0.93,
+    "data_quality_integrity": 0.85,
+    "fairness_violations": 0.79,
+    "reproducibility_concerns": 0.76
+  },
+  "low_agreement_categories": {
+    "model_robustness": 0.36,
+    "deployment_readiness": 0.33,
+    "model_interpretability": 0.31,
+    "bias_amplification": 0.26,
+    "real_world_harm": 0.19
+  },
+  "categories_keyword_higher": [
+    "data_consent_ethics",
+    "model_robustness",
+    "model_interpretability",
+    "misuse_potential",
+    "fairness_violations",
+    "environmental_impact"
+  ],
+  "categories_llm_higher": [
+    "data_privacy_leakage",
+    "data_quality_integrity",
+    "data_bias_representation",
+    "model_security",
+    "model_reliability",
+    "real_world_harm",
+    "deployment_readiness",
+    "bias_amplification",
+    "reproducibility_concerns",
+    "evaluation_validity",
+    "resource_accessibility"
+  ],
+  "papers_analyzed": 100,
+  "perfect_agreement_papers": 0
+}
