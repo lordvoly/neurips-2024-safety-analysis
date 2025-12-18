@@ -1,0 +1,13 @@
+,data_privacy_confidentiality,licensing_consent_copyright,data_quality_representativeness,robustness_reliability,misuse_dual_use,fairness_bias,user_harm_wellbeing,transparency_accountability,environmental_impact,responsible_release,security_access_control,reproducibility_controls
+data_privacy_confidentiality,0,0,0,0,0,0,0,0,0,0,0,0
+licensing_consent_copyright,0,0,0,0,0,0,0,0,0,0,0,0
+data_quality_representativeness,0,0,0,0,0,0,0,0,0,0,0,0
+robustness_reliability,0,0,0,0,0,0,0,0,0,0,0,0
+misuse_dual_use,0,0,0,0,0,0,0,0,0,0,0,0
+fairness_bias,0,0,0,0,0,0,0,0,0,0,0,0
+user_harm_wellbeing,0,0,0,0,0,0,0,0,0,0,0,0
+transparency_accountability,0,0,0,0,0,0,0,0,0,0,0,0
+environmental_impact,0,0,0,0,0,0,0,0,0,0,0,0
+responsible_release,0,0,0,0,0,0,0,0,0,0,0,0
+security_access_control,0,0,0,0,0,0,0,0,0,0,0,0
+reproducibility_controls,0,0,0,0,0,0,0,0,0,0,0,0

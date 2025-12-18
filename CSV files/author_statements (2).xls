@@ -1,0 +1,353 @@
+paper_id,title,text,concern_type,severity,has_mitigation,research_area
+e8e77297,00d80722b756de0166523a87805dd00f-Paper-Conference,"In this paper, we identify a limitation in these approaches: they overlook the non-optimal reasoning
+thoughts generated during the tree-search process, which naturally provides additional preference
+information",unspecified,low,False,natural_language_processing
+e8e77297,00d80722b756de0166523a87805dd00f-Paper-Conference,"Moreover, ethical considerations
+must be taken into account, as the potential for misuse could lead to unintended consequences",misuse_potential,low,False,natural_language_processing
+8584fc48,0142921fad7ef9192bd87229cdafa9d4-Paper-Conference,"As a result, directly using saved skills as in-context
+examples can lead to thePath Dependenceproblem, i",unspecified,low,False,reinforcement_learning
+254c9b3c,019ef89617d539b15ed610ce8d1b76e1-Paper-Conference,"This can lead to excessively large TD errors, destabilizing the learning process",unspecified,low,False,reinforcement_learning
+353195f5,03341fe3c3f848f699b201ce72c13e11-Paper-Conference,"Such attacks could lead to failures in critical applications,
+such as autonomous vehicles or healthcare systems, potentially causing harm to individuals",unspecified,critical,False,reinforcement_learning
+5e78ad38,03738e5f26967582eeb3b57eef82f1f0-Paper-Conference,"We note that this
+issue may be further resolved by using GPT-4V , which was not available during our submission
+date",unspecified,low,False,computer_vision
+aa6b4dc0,040ace837dd270a87055bb10dd7c0392-Paper-Conference,", pretrained language models, image generators, or
+scraped datasets)?
+Answer: [NA]
+Justification: We do not release models that can cause potential harm",unspecified,low,False,reinforcement_learning
+9e066ff2,040d3b6af368bf71f952c18da5713b48-Paper-Conference,"2 Limitations
+While we have illustrated UMOD’s success, we acknowledge some limitations",unspecified,low,False,theory
+e3111bc5,04a80267ad46fc730011f8760f265054-Paper-Conference,"Firstly, we identify and articulate the limitations
+inherent in the I-JEPA framework, specifically its EMA and prediction mechanisms",unspecified,low,False,computer_vision
+be93c5ef,04b98fd38bd42810d0764cb6c46d10d8-Paper-Conference,"Therefore, these methods cannot be applied without such a given
+reference, which can be difficult to obtain in practice [14, 56]",unspecified,low,False,theory
+c37b1617,04d212c4eeeb710f170d47f8d5b9b88a-Paper-Conference,"Crossing safe
+boundaries of CA, CB, and TR can lead to tank failure or even explosions",unspecified,low,False,reinforcement_learning
+c37b1617,04d212c4eeeb710f170d47f8d5b9b88a-Paper-Conference,"Safety constraints are imposed on the
+chemical concentrations and reactor temperature, as crossing the safe boundaries for any of them
+can lead to tank failure or even explosions",unspecified,low,False,reinforcement_learning
+c625bb4f,056521a35eacd9d2127b66a7d3c499c5-Paper-Conference,"There’s also a risk that you might distract other players, which could lead to
+problems like more jarring or noisy interruptions in play",unspecified,low,False,natural_language_processing
+7014f6a5,059445c2d5b3ef918079851628fef1d6-Paper-Conference,"We identify three key issues that necessitate warmup:
+1",unspecified,low,False,natural_language_processing
+8bbfdcab,05aedcaf4bc6e78a5e22b4cf9114c5e8-Paper-Conference,"2 Natural Generalization Gap Hinders Robust Adapting
+We identify a failure risk in few-shot adversarial prompt learning using TeCoA loss [ 11], where
+insufficient natural generalization on the sampled dataset impedes robustness learning",unspecified,low,False,computer_vision
+fcf35960,05fbf28602c5c2c994499db18363fbbb-Paper-Conference,"The issue of missing or incomplete
+phenotypic data is pervasive and can lead to biased results in medical research and suboptimal patient
+care [21]",unspecified,low,False,natural_language_processing
+a23518d9,067437c6d5d0369b6d09200bef89715b-Paper-Conference,"However, we recognize its limitations, so we can also explore other more
+flexible neural approaches as the primary network to overcome restrictions related to data formats
+and rule languages",unspecified,low,False,theory
+fb50c575,0731f0e65559059eb9cd9d6f44ce2dd8-Paper-Conference,"However, we identify two key
+limitations of existing Diffusion models in retrieval tasks: The L2 loss does not
+fit the ranking problem inherent in text-video retrieval, and the generation quality
+heavily depends on the varied initial point drawn from the isotropic Gaussian,
+causing inaccurate retrieval",unspecified,low,False,natural_language_processing
+227cc784,07e278a120830b10aae20cc600a8c07b-Paper-Conference,"However, without online interactions, an
+incorrect centralized value can lead to significant extrapolation errors, and the transformer can only
+serve as an independent model for each agent",unspecified,low,False,reinforcement_learning
+cf926fdb,098d1bd3eb6156a4c2f834563cdcf617-Paper-Conference,"Although fast
+and simple, this approach can lead to cascading errors, resulting in degraded performance",unspecified,low,False,natural_language_processing
+36d242d3,09e1944b7f2372f9f81866470c59b663-Paper-Conference,"Unfortunately, naïve application of the above updates can cause errors as, even without stochasticity,
+agent parameters can grow to a point of numerical instability",unspecified,low,False,reinforcement_learning
+36d242d3,09e1944b7f2372f9f81866470c59b663-Paper-Conference,", pretrained language models,
+image generators, or scraped datasets)?
+Answer: [NA]
+Justification: We do not believe that OPEN has any potential for misuse, and so there is no
+need to describe safeguards for the models",misuse_potential,low,True,reinforcement_learning
+f4e5889d,0a4e065fb5ee13441c90bb4b4d6072d0-Paper-Conference,"|P| = m1 (4)
+Critically, we note that this combinatorial problem is non-degenerate when m ≪ n, if m1 < n, due
+to the cardinality constraint on the solution [30]",unspecified,critical,False,theory
+c6b6b2c4,0b135d408253205ba501d55c6539bfc7-Paper-Conference,"While our study presents some improvements in VPR, particularly
+in enhancing domain generalization ability, reducing the dimensionality of global descriptors, and
+reducing the number of parameters for the aggregation layer, we acknowledge two limitations of
+our work: Firstly, the current success of SuperVLAD relies on the use of the transformer backbone",unspecified,low,False,computer_vision
+354339a5,0b99315234cc95e6ef281f9155b68832-Paper-Conference,"(iii) Data heterogeneity: As with other
+federated learning, multiple local gradient steps based on heterogeneous data at each client between
+federation rounds may lead to biased models",unspecified,low,False,reinforcement_learning
+cc57f23c,0be40478ab6ee0006ee3b38b158bbc8f-Paper-Conference,"While
+our proposed model, scCello, aims to advance our understanding of cell representation
+learning for scientific discovery purposes and carries relatively little inherent risk for misuse,
+we acknowledge that as an open-source model, we cannot guarantee zero potential for
+misuse if the methods were to fall into malicious hands",misuse_potential,low,False,natural_language_processing
+86c868d0,0c7ca207a051228f978971447a56464a-Paper-Conference,"We note that, on the Least square problem ˆL(f) = ˆµ(f) = 1, therefore, the bound in
+Proposition D",unspecified,low,False,theory
+25fb31fa,0cf3e7eefb9d643e93e16ff1d94090a7-Paper-Conference,"However, it is crucial to consider ethical implications, such
+as privacy concerns and the potential for misuse, ensuring that these technologies are implemented
+responsibly and equitably",misuse_potential,low,False,computer_vision
+25e1bd14,0d11b4035d54e449320fc36b0f64ebb7-Paper-Conference,"However, small differences in texture details can lead to content errors or unrealistic
+and unreasonable textures in visual text generation",unspecified,low,False,computer_vision
+adad0abf,0d67ec04032cccf4a21d04c0ae4ab268-Paper-Conference,"Additionally, the methodologies used do not involve any harmful practices or potential for
+misuse",misuse_potential,critical,False,computer_vision
+7687026b,0d70af566e69f1dfb687791ecf955e28-Paper-Conference,"Nevertheless, excessive reliance on knowledge from pre-training data and a few
+examples may lead to societal biases and unfairness",fairness_violations,low,False,natural_language_processing
+29ba30af,0f25eb6e9dc26c933a5d7516abf1eb8c-Paper-Conference,"Moreover, all models released are task-specific
+classification models, limiting potential for misuse",misuse_potential,low,False,computer_vision
+59016fbf,0f98645119923217a245735c2c4d23f4-Paper-Conference,"Informally, this may lead to a bias in
+which some clients’ objective is underweighted relative to others",unspecified,low,False,theory
+c2a191da,0fd3d8093b3ba73d19b393a1326fdba7-Paper-Conference,"Yet, misspecification of
+either outcome or treatment-free effect models can lead to heteroscedastic errors due to residual
+treatment-free effects",unspecified,low,False,theory
+ed32dfe6,0fd4ce94d29be88a5a262a2c77a18f47-Paper-Conference,"Consequently, we identify two issues in existing Fourier-based studies: inconsistent starting cycles
+and inconsistent series length issues",unspecified,low,False,computer_vision
+a593b6f7,10826a1a80f816ea98d559d7c7a97973-Paper-Conference,"In contrast, we demonstrate that using
+biased compressors directly on weights can lead to convergence failure, as illustrated in an example
+in Section 4",unspecified,low,False,natural_language_processing
+8a2ed99e,10f1737aa6347ccc555ac068e1b45523-Paper-Conference,", 2015], but cannot be used without well-
+defined gradients",unspecified,low,False,computer_vision
+8bf4f796,123a18dfd821c8b440f42a00a27648d6-Paper-Conference,"Upon conducting further experimental analysis, we identify the issue as originating from the model’s
+failure to converge",unspecified,low,False,computer_vision
+ad673a70,12d3e63be5574088f7c1bbc9162060bf-Paper-Conference,"Additionally, the method is focused on improving technical
+aspects and does not directly interact with sensitive data or applications that could lead to
+ethical concerns or misuse",misuse_potential,low,False,natural_language_processing
+a9248dc4,13183a224208671a6fc33ba1aa661ec4-Paper-Conference,"Moreover, even if
+each individual ratio is nearly accurate, the accumulation of small errors can result in a significant
+overall error",unspecified,low,False,computer_vision
+c604f93e,14c018d2e72c521605b0567029ef0efb-Paper-Conference,"7 Limitations
+We note a few limitations of our proposed method",unspecified,low,False,natural_language_processing
+1e38dc3e,14fef58f09f2ebe69306e0a322e3be2b-Paper-Conference,"Allowing the minibatches to have variable sizes creates an
+engineering challenge: an uncharacteristically large minibatch can cause an out-of-memory error,
+and depending on how fine tuned the minibatch size is to the available GPU memory this could
+be a frequent occurrence",unspecified,low,False,theory
+3c8a784f,15b780350b302a1bf9a3bd273f5c15a4-Paper-Conference,"However, this technology also
+poses ethical concerns, such as the potential for misuse in creating harmful substances",misuse_potential,critical,False,generative_models
+a113ed0c,15cc8e4a46565dab0c1a1220884bd503-Paper-Conference,"In this paper, we identify the limitations of existing methods, particularly their
+overemphasis on the distance effect as outlined in the First Law of Geography",unspecified,low,False,generative_models
+a113ed0c,15cc8e4a46565dab0c1a1220884bd503-Paper-Conference,"• We identify the limitations of existing methods in road network representation learning,
+and propose the integration of the Third Law of Geography to overcome the shortcomings",unspecified,low,False,generative_models
+65a60dbe,15f4cefb0e143c7ad9d40e879b0a9d0c-Paper-Conference,"We recognize the ethical concerns and underscore that our goal here is to
+explore how understanding aspects such as nonverbal behavior in multimodal communications using
+generative models can open up new avenues in research",unspecified,low,False,generative_models
+1ea516e7,172be8b0b88fc2b4aee74237d43f8c04-Paper-Conference,"We acknowledge this is as a limitation of the method as
+it makes finding defences much more difficult",unspecified,low,False,natural_language_processing
+bda2acd2,1787533e171dcc8549cc2eb5a4840eec-Paper-Conference,"The ease of generating high-quality
+synthetic images and videos could lead to a surge in the production of harmful or misleading content,
+such as deepfakes, potentially exacerbating issues of misinformation and privacy invasion",misuse_potential,critical,False,generative_models
+03d45884,178de34a090423c359a0ca2d51a25706-Paper-Conference,We note that our method also exhibit limitations,unspecified,low,False,computer_vision
+2b6b581f,1862ea85f21ca819eed2b75af39bba60-Paper-Conference,"We identify that this issue arises from the misalignment between the
+degradation-required representation and the homogeneity in current PETL methods",unspecified,low,True,computer_vision
+fece707f,19ae2b95d3831c14373271112f189a22-Paper-Conference,"OMD and FuncID focus on
+maximizing performance in the task environment, while MLE emphasizes accurate representation of
+all aspects of the environment, which can lead to smaller prediction errors but may not necessarily
+correlate with superior evaluation performance",unspecified,low,False,reinforcement_learning
+925e1038,19f461132d8ed04764f58f88b7a8e842-Paper-Conference,A poor approximation may cause biased decisions,unspecified,low,False,theory
+531da4e5,1af3e0bf5905e33789979f666c31192d-Paper-Conference,Their reliance on pre-defined threshold can lead to error accumulation,unspecified,low,False,computer_vision
+9d61b491,1c1b099a19621e4bd2753ac572e1dbd5-Paper-Conference,"This reduced flexibility may result in failure to properly fit increasingly large or
+sufficiently complex data [15]",unspecified,low,False,theory
+750ca7de,1cb5b3d64bdf3c6642c8d9a8fbecd019-Paper-Conference,"Risky plans can lead to harm and are not a responsible
+or safe way to approach a situation",unspecified,low,False,natural_language_processing
+038670f3,1da9ca7e9cef4b1af63913f05d1630a4-Paper-Conference,"6 Limitation and Future Work
+We recognize that there are several limitations and potential areas for further investigation",unspecified,low,False,theory
+114e78f2,1f7b3b0dd7710af02aac0db5be4cfc8d-Paper-Conference,"Solving (4) itself only approximately can mitigate this problem to some extent, but as we will discuss
+in Section 4, this can lead to robustness problems, especially because the recovery of C from S in
+Deﬁnition 2, e",unspecified,low,True,theory
+3bad5d97,1fd2b71226c67013756d318d70c40eee-Paper-Conference,"How-
+ever, standard GMs can result in biased outcomes, especially when the underlying
+data involves sensitive characteristics or protected groups",unspecified,low,False,theory
+0abf4451,1feb87871436031bdc0f2beaa62a049b-Paper-Conference,"Too small λ1 would make the smoothness
+invalid while too large λ1 may lead to over-smoothing problems",unspecified,low,False,computer_vision
+60a83678,201408406e0c5cf7626c4baeae6eaadd-Paper-Conference,"While this may not cause
+a significant performance deterioration in the source domain, where the environment is similar, it
+could cause a bias under the self-training scheme",unspecified,low,False,computer_vision
+f18df066,2063a00c435aafbcc58c16ce1e522139-Paper-Conference,"We acknowledge this limitation
+and will explore solutions in future work",unspecified,low,False,computer_vision
+84d8bc95,2093ed77c549eda95bd6f7212b735b43-Paper-Conference,"These methods are based on the assumption that clean samples can be identified using
+certain criteria, and that network collaboration is more stable than self-selection, which may lead to
+error accumulation",unspecified,low,False,computer_vision
+5a9ee953,20fdaf67581e6d7157376d1ed584040a-Paper-Conference,Justification: We acknowledge assumptions and limitations in our paper where applicable,unspecified,low,False,natural_language_processing
+1963a5a3,21a7b312c42af86b3cd17a26a8ec499e-Paper-Conference,"15
+A Impact Statements
+The proposed framework can iteratively grow decision trees for multi-agent environments, while we
+do not see an immediate threat of ethical and societal consequences, it is essential to address and
+mitigate any risks of misuse or unintended consequences from applying malicious training datasets
+or improper use of certain scenarios",misuse_potential,low,True,reinforcement_learning
+fd351cd3,22862040c1781356c8c3df4d00e5811b-Paper-Conference,"For candidate arms with high uncertainty levels, the neural model may lack confidence in
+estimating rewards based on current records, due to potential reward corruptions, which can lead to
+significant estimation errors",unspecified,low,False,reinforcement_learning
+cb653818,2432eb0ddcf3bb630b5bcf96ca7e592d-Paper-Conference,"[29] showed that first-order ODE blocks could cause error accumulation,
+and high-order methods were suggested as solutions",unspecified,low,False,natural_language_processing
+b6fec0fb,26300457961c3e056ea61c9d3ebec2a4-Paper-Conference,"The major challenge of one-shot tuning is overfitting
+because insufficiency of data may lead to severe bias and limited diversity of generated images",unspecified,critical,False,computer_vision
+89d8e390,27e5626cabdbb6cd5c56ce4114ff93e4-Paper-Conference,"6 Conclusion and Limitation
+We formulate the camera-insensitivity collaborative perception task, which considers harsh realities
+of real-world sensors that may cause unpredictable random camera failures during collaborative
+communication",unspecified,low,False,computer_vision
+a9b7088a,2847043899e1171183ceadf86bdbb280-Paper-Conference,"Additionally, it may lead to error accumulation and potentially overwrite previous edits",unspecified,low,False,computer_vision
+a9b7088a,2847043899e1171183ceadf86bdbb280-Paper-Conference,"Nonetheless, we acknowledge the
+potential for misuse, particularly by those aiming to generate misinformation using our methodology",misuse_potential,low,False,computer_vision
+e6597a55,288b63aa98084366c4536ba0574a0f22-Paper-Conference,"Given the potential for misuse or
+16
+dual-use of such technology, we have implemented several safeguards to mitigate these risks",misuse_potential,low,True,reinforcement_learning
+4e299c91,29021b06afa4c648ee438584f7ef3e7e-Paper-Conference,"However, this formulation has a three-level composition structure and
+thus, using a batch of data in a three-level composition can result in biased gradient estimation",unspecified,low,False,theory
+d2b13810,290848c892a85a6936b473d4daa6d0ad-Paper-Conference,"While existing private mean estimation algorithms can be applied in a black-box
+manner to obtain confidence intervals, we show that they can lead to suboptimal
+private error, e",unspecified,low,False,theory
+5f1c94f4,29ff36c8fbed10819b2e50267862a52a-Paper-Conference,"The models developed are not anticipated
+to have a high risk potential for misuse",misuse_potential,critical,False,theory
+bf230a61,2a02b560822d564119fe3ac3be024ac6-Paper-Conference,"However, object boundary
+ambiguities, caused by noise or smooth intensity changes, can lead to bleeding errors [22]",unspecified,low,False,computer_vision
+f56646ae,2bdc2267c3d7d01523e2e17ac0a754f3-Paper-Conference,"In other words, while GCD considers
+the possibility of future grammaticality, it makes no attempt to integrate the model’s likelihood
+to estimate expected future grammaticality, which can lead to substantial bias in the sampling
+distribution—i",model_robustness,low,False,natural_language_processing
+3bb339f9,2c30a37c75f062e0bf79297c73db8c6c-Paper-Conference,"To design multiplication-less LLMs, we need to address three key challenges: First, how can
+we effectively reparameterize pretrained LLMs with shifts and adds in a post-training manner?
+Previous reparameterization techniques [69, 72] can result in nontrivial quantization errors, requiring
+fine-tuning or retraining to avoid accuracy drops",unspecified,low,True,computer_vision
+390a804a,2c428bb07062012236519b589db63f34-Paper-Conference,"The data imbalance may cause model bias,
+resulting in poor performance on those poses (74)",unspecified,low,False,computer_vision
+320554c8,2cdf71a65e95bf1874212f6e604c64db-Paper-Conference,"The population risk for the target task Rt(h) is upper bounded by:
+Rt(h) ≤ Rs(f) + W1(Xs, h(Xt)) (12)
+However, the second term in the risk function is a strict constraint and a slight deviation in the
+representational alignment can lead to a large error in the output",unspecified,low,True,computer_vision
+569a059c,2d66a70c770de7835678f1c1e65fe5e1-Paper-Conference,"1) We identify the limitations in current
+VTS methods and propose a novel and simple baseline, which leverages an off-the-shelf image
+text spotter with a strong customized tracker",unspecified,low,False,computer_vision
+72869872,2d779258dd899505b56f237de66ae470-Paper-Conference,"While in theory both Dynamic Interaction and self-attention can discount
+far-away information as the tokens can decide their own interaction neighborhood, overly large
+neighborhood size can lead to the problems mentioned above",model_robustness,low,False,computer_vision
+224d4c0a,2d950a2cfd8a75124c178a89545b97fd-Paper-Conference,"However,
+the optimal transport plan from samples is not necessarily a good approximation of the semi-discrete
+transport plan and may cause biased gradients [14, 19]",model_robustness,low,False,generative_models
+a2adbf76,2d9c6cdb4cfe93869c090fea7375044b-Paper-Conference,"We identify an ""over-focus"" issue
+in existing 1D causal vision models, where attention overly concentrates on a small
+proportion of visual tokens",unspecified,low,False,computer_vision
+a2adbf76,2d9c6cdb4cfe93869c090fea7375044b-Paper-Conference,"In this paper, we identify an ""over-focus"" issue in existing 1D causal vision models",unspecified,low,False,computer_vision
+a2adbf76,2d9c6cdb4cfe93869c090fea7375044b-Paper-Conference,"Our contributions can be
+summarized as follows:
+• We identify the over-focus issue in 1D causal visual modeling, where the model overly focuses on
+a small proportion of visual tokens in the deeper layers of the network",unspecified,low,False,computer_vision
+90652e50,2db8ce969b000fe0b3fb172490c33ce8-Paper-Conference,"D Limitations
+We identify several potential limitations of our work:
+• Scalability: AvaTaR is designed to scale with large language models (LLMs) that support extended
+context lengths (up to 128k tokens), enabling it to handle numerous tools and complex tasks",unspecified,low,False,natural_language_processing
+a7f65c01,2e098001625a8b8f22bf6c1aef09c4e5-Paper-Conference,"Despite being the simplest possible causal setting
+and a perfect fit for deep learning, we theoretically find that many common choices in the
+literature may lead to biased estimates",unspecified,low,False,computer_vision
+a7f65c01,2e098001625a8b8f22bf6c1aef09c4e5-Paper-Conference,"1 explicits that
+misclassification can lead to biased causal conclusion, but not necessarily",unspecified,low,False,computer_vision
+a7f65c01,2e098001625a8b8f22bf6c1aef09c4e5-Paper-Conference,", depending on
+the experimental settings) can lead to biased treatment effect estimation, wrongly retrieving the
+conditional treatment effect on unseen experimental settings",unspecified,low,False,computer_vision
+a7f65c01,2e098001625a8b8f22bf6c1aef09c4e5-Paper-Conference,", depending on
+the experimental settings) can lead to biased treatment effect estimation, wrongly retrieving the
+conditional treatment effect on unseen experimental settings",unspecified,low,False,computer_vision
+262a864b,2e163450c1ae3167832971e6da29f38d-Paper-Conference,"Limitations Finally, we note a few limitations with our outlier removal algorithm",unspecified,low,False,theory
+4696e8f6,2e622ac74f66df03b686a12e2e0e4424-Paper-Conference,We acknowledge the limitations of our study and encourage further exploration,unspecified,low,False,natural_language_processing
+f6107239,2eb31e84089286505c27dd5d5ea7f683-Paper-Conference,We note that Problem (P-LOSS) is equivalent to Problem (P-KL),unspecified,low,False,generative_models
+f6107239,2eb31e84089286505c27dd5d5ea7f683-Paper-Conference,", pretrained language models,
+image generators, or scraped datasets)?
+Answer: [NA]
+Justification: We release no models and the supplemental code for training image generation
+model, trains the model on MNIST and Celeb-A datasets neither of which have potential for
+misuse",misuse_potential,low,False,generative_models
+4017eb8d,2f0728449cb3150189d765fc87afc913-Paper-Conference,"Nevertheless, ignorance of the true relationship between items may cause a seesaw
+problem [36]",unspecified,low,False,natural_language_processing
+5851de71,2f6a6317bada76b26a4f61bb70a7db59-Paper-Conference,"Such incoherence creates fragility: using
+a generative model to solve related but subtly different tasks can lead to failures",unspecified,low,False,natural_language_processing
+d01509d8,2f8f01acb3df19fea82fa68b4a310058-Paper-Conference,"Nevertheless, we acknowledge the
+blurry line between private and public data on the open web, and the potential for harmful
+content to reside in publicly available datasets",unspecified,critical,False,theory
+93936bc5,3040bf93152e90d5719379818a8664b4-Paper-Conference,"In this paper, we identify two issues: (a)
+inefficiency in the self-supervised learning procedure compared to conventional supervised learning
+arises due to sub-optimal self-generating targets [30, 62]; (b) although training on the distilled dataset
+is efficient and effective, the distillation process of optimization-based approaches [ 11, 72, 37] is
+computationally demanding [18, 56], often surpassing the computational load of training on the full
+dataset",unspecified,low,False,computer_vision
+6aa1ee33,30754e5f4cd69d64b5527cdd87d3cf62-Paper-Conference,"This may cause problems for VariBAD and HyperX, which were designed for and evaluated on
+small discrete task spaces, e",unspecified,low,False,reinforcement_learning
+36a309eb,3103b25853719847502559bf67eb4037-Paper-Conference,"Ignoring the covariate shift in state distributions between the
+expert and learner policies can cause compounding errors [17, 21] and associated poor performance",model_robustness,low,False,reinforcement_learning
+36a309eb,3103b25853719847502559bf67eb4037-Paper-Conference,"Unfortunately, as first analyzed by Ross and Bagnell [17], the covariate shift between the
+training (expert states) and test (learner states) distributions can lead to compounding errors – i",model_robustness,low,False,reinforcement_learning
+5edca8af,3106a1387b24c33bf66682e7ff393d56-Paper-Conference,"6 Limitations
+We identify three main limitations of our work",unspecified,low,False,natural_language_processing
+ec842b80,31a57804448363bcab777f818f75f5b4-Paper-Conference,"Moreover, we recognize a potential risk: if malicious users exploit our method for reverse training,
+they might compromise the security mechanisms of existing open-source LLMs",misuse_potential,moderate,False,natural_language_processing
+923569b8,32b80425554e081204e5988ab1c97e9a-Paper-Conference,"We identify the critical problem of information-seeking questions in reliable interactive LLM
+assistants",unspecified,critical,False,natural_language_processing
+eb76703b,32eb183794ef5ef9a3ab1d40a3d2b303-Paper-Conference,"While the potential for AI misuse
+exists, our work provides substantial improvements in fundamental architectures and theory, which
+we hope will lead to further socially beneficial outcomes",misuse_potential,low,False,computer_vision
+0233c3ab,34293d684b1012ed45c3274b4a7edc00-Paper-Conference,"Whilst our controller theoretically converges to the desired state, and empirically stabilizes training,
+we recognize several limitations of our work",unspecified,low,False,reinforcement_learning
+e1633f31,349a45f211fb1b3850da1ccd829e869e-Paper-Conference,"This approach ensures the system’s robustness and reliability under a range of adverse
+conditions, effectively mitigating the potential for catastrophic failures",unspecified,critical,False,reinforcement_learning
+1c035d40,34a1fc7890141f1ada3d8bc6199cce07-Paper-Conference,"It is important to always 
+treat others with respect and kindness, and to refrain from engaging in 
+any activities that may cause harm or violate laws and regulations……
+Figure 3: An example of the IBProtector",unspecified,low,False,natural_language_processing
+1c035d40,34a1fc7890141f1ada3d8bc6199cce07-Paper-Conference,"Therefore, I cannot provide advice or
+guidance on how to engage in activities that may cause harm or financial gain through unethical means,
+such as manipulating stock prices",unspecified,low,False,natural_language_processing
+fc0e4a3b,34aec5ab2f99a8f592e0cca4974013f2-Paper-Conference,"Your goal is
+to classify each answer as ""SAFE"" or ""UNSAFE"", especially considering the potential for encouraging
+or detailing harmful behavior",unspecified,critical,False,reinforcement_learning
+5a2f8ca7,34b70ece5f8d273fd670a17e2248d034-Paper-Conference,"However, there is also a potential risk of misuse, as
+3D assets could be used to generate fake content for misinformation",misuse_potential,moderate,False,computer_vision
+63f3bf76,34d3cf97696022b179171e5abda42c0b-Paper-Conference,"Additionally, we do not release proprietary or new datasets or models that could cause
+the risk of misuse",misuse_potential,low,False,natural_language_processing
+3b18a420,3501bea1ac61fedbaaff2f88e5fa9447-Paper-Conference,", 2021] that use self-distillation,
+loss minimization is not usually the training objective – which might lead to failure of membership
+inference attacks based on loss statistics [Liu et al",unspecified,low,False,computer_vision
+ca2175f8,35cb54b887e7aafe74829677cce6c5c6-Paper-Conference,"6s/it
+5 Conclusions and Discussions
+In this paper, we identify a common issue in I2V-DMs: conditional image leakage",unspecified,low,False,computer_vision
+126ace9f,3685de48976169ca9fd68cb4c8e48b76-Paper-Conference,"We identify two main issues/challenges that contribute to the
+problem: dimension mismatch and fusion difficulty",unspecified,low,False,computer_vision
+9c22daaf,37d4d4413b7c7558cc27a6d3d42ea998-Paper-Conference,"We note that the above decision problem can be reduced, in polynomial time, to the problem of finding
+the optimal prediction set",unspecified,low,False,reinforcement_learning
+8c311c1d,38b787fc530d0b31825827e2cc306656-Paper-Conference,"While our proposed DPE method effectively adapts CLIP to out-of-distribution domains
+during test time, we identify two potential limitations: (1) It still requires gradient backpropagation to
+optimize the multi-modal prototypes",model_robustness,low,False,computer_vision
+b87c19cd,38d67d1df644cf2efe9ebd5521741dc5-Paper-Conference,"We acknowledge the potential harms of diffusion models in the broader impacts statement,
+and do not anticipate that our methodological contributions will alter known issues",unspecified,low,False,generative_models
+09c4bb5f,39a746f507dc5087bd85cc39ded8c52f-Paper-Conference,"Retrieval errors can lead to
+foreign biases in image generation and deliberate
+misinterpretations of the prompt",unspecified,low,False,natural_language_processing
+04565061,3a797b10ff20562b1ecee0d4e914c1c7-Paper-Conference,"In summary, our contributions and findings are as follows:
+• Conceptually, we identify a fundamental limitation common to state-of-the-art (SOTA)
+generative MIAs [Zhang et al",unspecified,low,False,computer_vision
+04565061,3a797b10ff20562b1ecee0d4e914c1c7-Paper-Conference,"5 Conclusion
+In this paper, we identify a fundamental limitation common to state-of-the-art generative MIAs, i",unspecified,low,False,computer_vision
+9f16175b,3b64416915026a6744bf10a819571041-Paper-Conference,"While these results are promising, we acknowledge a few limitations of the gpSLDS",unspecified,low,False,theory
+44fc1d2b,3b77109ad4dd4ba82d07cacd4b24207e-Paper-Conference,"Failing to properly handle distribution shifts is a key vulnerability of current AI that can lead to
+errors, discriminatory behavior, and safety risks",model_robustness,low,False,computer_vision
+3bf459bd,3bf80b34f731313b8292f4578e820c90-Paper-Conference,"For language understanding capabilities,
+while the Chinese question in the first example of Figure 1 may cause a reasoning error by failing
+in understanding the English-origin term ""dozen of"", the LLM successfully differentiated between
+""the week"" and ""the weekdays"" in the Chinese question, contrasting with the failure of the English
+question in the second example",unspecified,low,False,natural_language_processing
+332ea846,3d03800841fa1bb2f43ef1750aafcce4-Paper-Conference,These actions can lead to harmful outputs from MetaAligner,unspecified,critical,False,natural_language_processing
+d13fbb01,3d158f054ff0cb83397367234899db07-Paper-Conference,"However, it is essential to consider the potential risks and
+ethical implications of our work",unspecified,moderate,False,natural_language_processing
+8f71ee44,3d8f2fdc04fa66c9239f2eb14379546d-Paper-Conference,"6 Limitations
+We recognize weaknesses and limitations across three fronts",unspecified,low,False,natural_language_processing
+8921bcc5,3dbcadb7beedc2afe32bb23f75dd30ec-Paper-Conference,"22
+A Limitations
+We recognize that a primary limitation pertains to the scalability of RoAd",unspecified,low,False,natural_language_processing
+c2921320,3dd7c683eddc14f8cabcd6ce8d48cd41-Paper-Conference,"47
+9
+5 Conclusion
+In this work, we identify the limitations of previous drag editing models in understanding semantic
+intentions and generating high-quality edited images",unspecified,low,False,natural_language_processing
+9df6abbe,3df874367ce2c43891aab1ab23ae6959-Paper-Conference,"This can cause the policy
+to choose problematic actions",unspecified,low,False,natural_language_processing
+f061c2ed,3f630b20b7b3ac76d3a0016fe29b6dc0-Paper-Conference,"We note that the prediction problem becomes equivalent to copying [28] a sequence of
+symbols",unspecified,low,False,natural_language_processing
+a6240b60,3f9bbf77fbd858e5b6e39d39fe84ed2e-Paper-Conference,"If the flow is inaccurate or contains errors, excessive
+warping can lead to severe cumulative errors, significantly damaging the edited content",unspecified,critical,False,computer_vision
+3b86b303,3f9bf45ea04c98ad7cb857f951f499e2-Paper-Conference,", learning
+rate and weight decay), a curriculum on length may result in a potential implicit bias",unspecified,low,False,natural_language_processing
+8b65febd,3fcce87e6df22b2ab6f0be68af3ec714-Paper-Conference,"This
+is possibly due to the fact that, for context-specific approaches, endogenous variables might lead to
+selection bias, while for methods that use pooled data it suffices to treat endogenous variables as any
+other variable in the graph",data_bias_representation,low,False,theory
+8b65febd,3fcce87e6df22b2ab6f0be68af3ec714-Paper-Conference,"not arising
+directly from an edge flip, can lead to problems, as exemplified below",unspecified,low,False,theory
+31c91beb,40386e4770bebd63fdf47cbc67341c0b-Paper-Conference,"This approach acknowledges the inherent limitations of learning
+algorithms in predicting the exact dataset from a given RKME specification, due to the overwhelming
+diversity of potential original datasets",unspecified,low,False,theory

@@ -1,0 +1,18 @@
+{
+  "total_statements": 136,
+  "papers_with_statements": 121,
+  "by_concern_type": {
+    "unspecified": 109,
+    "misuse_potential": 18,
+    "model_robustness": 7,
+    "fairness_violations": 1,
+    "data_bias_representation": 1
+  },
+  "by_severity": {
+    "low": 120,
+    "critical": 13,
+    "moderate": 3
+  },
+  "with_mitigation": 7,
+  "without_mitigation": 129
+}

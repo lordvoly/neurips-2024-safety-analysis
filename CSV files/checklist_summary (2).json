@@ -1,0 +1,272 @@
+{
+  "1": {
+    "question_text": "Do the main claims made in the abstract and introduction accurately reflect the paper's contributions and scope?",
+    "category": "research_integrity",
+    "coverage": "993/1031",
+    "coverage_percent": 96.31425800193986,
+    "concerns_raised": 29,
+    "concern_percent": 2.8128031037827355,
+    "example_snippets": [
+      "12 Contents 1 Introduction 1 2 Related Work 2 3 The M ICRO ADAM Algorithm 3 3",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: Please refer to the abstract part and the contribution enumeration at the tail of the introduction part",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: [Yes] Guidelines:"
+    ],
+    "concern_snippets": [
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: Please refer to the abstract part and the contribution enumeration at the tail of the introduction part",
+      "Our contributions on the failure modes of robustness evaluation should hopefully lead to more rigorous and trustworthy evaluation protocols",
+      "While there are computational costs, these do not overshadow the contributions of CPDTrack"
+    ]
+  },
+  "2": {
+    "question_text": "Does the paper discuss the limitations of the work performed by the authors?",
+    "category": "transparency",
+    "coverage": "997/1031",
+    "coverage_percent": 96.70223084384094,
+    "concerns_raised": 29,
+    "concern_percent": 2.8128031037827355,
+    "example_snippets": [
+      "Another limitation we aim to address in future work is that we have only focused on sparsity as a form of gradient projection",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: Please refer to the abstract part and the contribution enumeration at the tail of the introduction part",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: [Yes] Guidelines:"
+    ],
+    "concern_snippets": [
+      "In addition, while our tools enable a malicious modeler to manipulate algorithmic fairness methods to amplify disparities instead of reducing them, for instance, by reversing the fairness constraint (replacing \u2264 with \u2265), the unfairness of a trained model can be detected by assessing it over a separate test set from the original dataset",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: We claim to study credit attribution in machine learning algorithms in the abstract, and our main results (Definitions 1, 3 and Theorems 1, 2) are precisely about this",
+      "Broader impact and limitations As our work removes nearly all multiplications, it could improve the energy efficiency of the current generation of AI models, reducing costs while being more environmentally friendly"
+    ]
+  },
+  "3": {
+    "question_text": "For each theoretical result, does the paper provide the full set of assumptions and a complete (and correct) proof?",
+    "category": "research_integrity",
+    "coverage": "1000/1031",
+    "coverage_percent": 96.99321047526674,
+    "concerns_raised": 34,
+    "concern_percent": 3.2977691561590685,
+    "example_snippets": [
+      "However, our theoretical analysis also applies to low-rank projection of gradients",
+      "The abstract and/or introduction should clearly state the claims made, including the contributions made in the paper and important assumptions and limitations",
+      "The abstract and/or introduction should clearly state the claims made, including the contributions made in the paper and important assumptions and limitations"
+    ],
+    "concern_snippets": [
+      "However, our theoretical analysis also applies to low-rank projection of gradients",
+      "The abstract and/or introduction should clearly state the claims made, including the contributions made in the paper and important assumptions and limitations",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: We claim to study credit attribution in machine learning algorithms in the abstract, and our main results (Definitions 1, 3 and Theorems 1, 2) are precisely about this"
+    ]
+  },
+  "4": {
+    "question_text": "Does the paper fully disclose all the information needed to reproduce the main results?",
+    "category": "reproducibility",
+    "coverage": "1030/1031",
+    "coverage_percent": 99.90300678952472,
+    "concerns_raised": 972,
+    "concern_percent": 94.27740058195926,
+    "example_snippets": [
+      "Convergence of adam for non-convex objectives: Relaxed hyperparameters and non-ergodic case",
+      "NeurIPS Paper Checklist The checklist is designed to encourage best practices for responsible machine learning research, addressing issues of reproducibility, transparency, research ethics, and societal impact",
+      ", if the approach was only tested on a few datasets or with a few runs"
+    ],
+    "concern_snippets": [
+      "NeurIPS Paper Checklist The checklist is designed to encourage best practices for responsible machine learning research, addressing issues of reproducibility, transparency, research ethics, and societal impact",
+      ", if the approach was only tested on a few datasets or with a few runs",
+      "Broader Impact Our work presents a novel approach to obtain coresets (synthetic representative samples) of a given dataset while reducing biases and disparities in subgroups of the given dataset"
+    ]
+  },
+  "5": {
+    "question_text": "Does the research conducted in the paper conform to ethical guidelines?",
+    "category": "ethics",
+    "coverage": "966/1031",
+    "coverage_percent": 93.69544131910766,
+    "concerns_raised": 936,
+    "concern_percent": 90.78564500484966,
+    "example_snippets": [
+      "NeurIPS Paper Checklist The checklist is designed to encourage best practices for responsible machine learning research, addressing issues of reproducibility, transparency, research ethics, and societal impact",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: [Yes] Guidelines:",
+      "Please see the NeurIPS code and data submission guidelines ( https://nips"
+    ],
+    "concern_snippets": [
+      "NeurIPS Paper Checklist The checklist is designed to encourage best practices for responsible machine learning research, addressing issues of reproducibility, transparency, research ethics, and societal impact",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: [Yes] Guidelines:",
+      "Please see the NeurIPS code and data submission guidelines ( https://nips"
+    ]
+  },
+  "6": {
+    "question_text": "Does the paper describe safeguards that have been put in place for responsible release of data or models?",
+    "category": "deployment_safety",
+    "coverage": "930/1031",
+    "coverage_percent": 90.20368574199806,
+    "concerns_raised": 929,
+    "concern_percent": 90.1066925315228,
+    "example_snippets": [
+      "Safeguards Question: Does the paper describe safeguards that have been put in place for responsible release of data or models that have a high risk for misuse (e",
+      "Safeguards Question: Does the paper describe safeguards that have been put in place for responsible release of data or models that have a high risk for misuse (e",
+      "Safeguards Question: Does the paper describe safeguards that have been put in place for responsible release of data or models that have a high risk for misuse (e"
+    ],
+    "concern_snippets": [
+      "Safeguards Question: Does the paper describe safeguards that have been put in place for responsible release of data or models that have a high risk for misuse (e",
+      "Safeguards Question: Does the paper describe safeguards that have been put in place for responsible release of data or models that have a high risk for misuse (e",
+      "Safeguards Question: Does the paper describe safeguards that have been put in place for responsible release of data or models that have a high risk for misuse (e"
+    ]
+  },
+  "7": {
+    "question_text": "Are the creators or original owners of assets (e.g., code, data, models) credited?",
+    "category": "attribution",
+    "coverage": "993/1031",
+    "coverage_percent": 96.31425800193986,
+    "concerns_raised": 27,
+    "concern_percent": 2.6188166828322017,
+    "example_snippets": [
+      "Acknowledgements The authors thank Razvan Pascanu, Mahdi Nikdan and Soroush Tabesh for their valuable feedback, the IT department from Institute of Science and Technology Austria for the hardware support and Weights and Biases for the infrastructure to track all our experiments",
+      "While the questions are phrased in a binary way, we acknowledge that the true answer is often more nuanced, so please just use your best judgment and write a justification to elaborate",
+      "While the authors might fear that complete honesty about limitations might be used by reviewers as grounds for rejection, a worse outcome might be that reviewers discover limitations that aren\u2019t acknowledged in the paper"
+    ],
+    "concern_snippets": [
+      "3 Number of experiments (MOEA) 31 Number of experiments (MOML) 5 Number of fitness value (2 obj) 40,000 Number of fitness value (3 obj) 126,000 Number of fitness value (4 obj) 350,000 (License) To close this subsection, we would like to mention that the license used for Adult follows Creative Commons Attribution 4",
+      "We acknowledge that compared to some mainstream trackers, CPDTrack\u2019s human-like modeling causes some additional computational costs",
+      "Claims Question: Do the main claims made in the abstract and introduction accurately reflect the paper\u2019s contributions and scope? Answer: [Yes] Justification: We claim to study credit attribution in machine learning algorithms in the abstract, and our main results (Definitions 1, 3 and Theorems 1, 2) are precisely about this"
+    ]
+  },
+  "8": {
+    "question_text": "Does the paper discuss whether and how consent was obtained from people whose data you're using/curating?",
+    "category": "data_ethics",
+    "coverage": "859/1031",
+    "coverage_percent": 83.31716779825412,
+    "concerns_raised": 9,
+    "concern_percent": 0.8729388942774006,
+    "example_snippets": [
+      "The paper should discuss whether and how consent was obtained from people whose asset is used",
+      "The paper should discuss whether and how consent was obtained from people whose asset is used",
+      "The paper should discuss whether and how consent was obtained from people whose asset is used"
+    ],
+    "concern_snippets": [
+      "The paper should discuss whether and how consent was obtained from people whose asset is used",
+      "The paper should discuss whether and how consent was obtained from people whose asset is used",
+      "Additionally, transparency and ethical considerations should be prioritized to address concerns related to privacy, consent, and the responsible use of restored images, particularly in sensitive domains such as healthcare or criminal investigations"
+    ]
+  },
+  "9": {
+    "question_text": "Has an analysis of the potential impact of the dataset and its use on data subjects been conducted?",
+    "category": "impact_assessment",
+    "coverage": "1026/1031",
+    "coverage_percent": 99.51503394762366,
+    "concerns_raised": 893,
+    "concern_percent": 86.6149369544132,
+    "example_snippets": [
+      "Broader Impact The MICRO ADAM algorithm we propose is designed and tested with fine-tuning workloads in mind, where the user aims to minimize the memory cost of optimizing over a powerful pre-trained model",
+      "NeurIPS Paper Checklist The checklist is designed to encourage best practices for responsible machine learning research, addressing issues of reproducibility, transparency, research ethics, and societal impact",
+      "If applicable, the authors should discuss possible limitations of their approach to address problems of privacy and fairness"
+    ],
+    "concern_snippets": [
+      "NeurIPS Paper Checklist The checklist is designed to encourage best practices for responsible machine learning research, addressing issues of reproducibility, transparency, research ethics, and societal impact",
+      "If applicable, the authors should discuss possible limitations of their approach to address problems of privacy and fairness",
+      "Broader Impact Our work presents a novel approach to obtain coresets (synthetic representative samples) of a given dataset while reducing biases and disparities in subgroups of the given dataset"
+    ]
+  },
+  "10": {
+    "question_text": "Does the paper describe potential risks incurred by study participants?",
+    "category": "participant_safety",
+    "coverage": "978/1031",
+    "coverage_percent": 94.85935984481087,
+    "concerns_raised": 943,
+    "concern_percent": 91.46459747817653,
+    "example_snippets": [
+      "The authors should consider possible harms that could arise when the technology is being used as intended and functioning correctly, harms that could arise when the technology is being used as intended but gives incorrect results, and harms following from (intentional or unintentional) misuse of the technology",
+      "The authors should consider possible harms that could arise when the technology is being used as intended and functioning correctly, harms that could arise when the technology is being used as intended but gives incorrect results, and harms following from (intentional or unintentional) misuse of the technology",
+      "The authors should consider possible harms that could arise when the technology is being used as intended and functioning correctly, harms that could arise when the technology is being used as intended but gives incorrect results, and harms following from (intentional or unintentional) misuse of the technology"
+    ],
+    "concern_snippets": [
+      "The authors should consider possible harms that could arise when the technology is being used as intended and functioning correctly, harms that could arise when the technology is being used as intended but gives incorrect results, and harms following from (intentional or unintentional) misuse of the technology",
+      "The authors should consider possible harms that could arise when the technology is being used as intended and functioning correctly, harms that could arise when the technology is being used as intended but gives incorrect results, and harms following from (intentional or unintentional) misuse of the technology",
+      "The authors should consider possible harms that could arise when the technology is being used as intended and functioning correctly, harms that could arise when the technology is being used as intended but gives incorrect results, and harms following from (intentional or unintentional) misuse of the technology"
+    ]
+  },
+  "11": {
+    "question_text": "Are there processes in place to address these risks to participants?",
+    "category": "risk_mitigation",
+    "coverage": "1023/1031",
+    "coverage_percent": 99.22405431619786,
+    "concerns_raised": 940,
+    "concern_percent": 91.17361784675073,
+    "example_snippets": [
+      "In Advances in Neural Information Processing Systems, pages 5973\u20135983, 2018",
+      "The authors should provide instructions on data access and preparation, including how to access the raw data, preprocessed data, intermediate data, and generated data, etc",
+      "The authors should provide instructions on data access and preparation, including how to access the raw data, preprocessed data, intermediate data, and generated data, etc"
+    ],
+    "concern_snippets": [
+      "The authors should provide instructions on data access and preparation, including how to access the raw data, preprocessed data, intermediate data, and generated data, etc",
+      "The authors should provide instructions on data access and preparation, including how to access the raw data, preprocessed data, intermediate data, and generated data, etc",
+      "As other approaches in the field of algorithmic fairness, our efforts may help populations that would otherwise face disadvantages from a model or decision process"
+    ]
+  },
+  "12": {
+    "question_text": "Does the paper document how workers were compensated?",
+    "category": "labor_ethics",
+    "coverage": "937/1031",
+    "coverage_percent": 90.88263821532493,
+    "concerns_raised": 923,
+    "concern_percent": 89.5247332686712,
+    "example_snippets": [
+      "Experiments Compute Resources Question: For each experiment, does the paper provide sufficient information on the com- puter resources (type of compute workers, memory, time of execution) needed to reproduce the experiments? Answer: [Yes] Justification: We report the machine (type and storage) requirements in Appendix G",
+      "Experiments Compute Resources Question: For each experiment, does the paper provide sufficient information on the com- puter resources (type of compute workers, memory, time of execution) needed to reproduce the experiments? Answer: [Yes] Justification: [Yes] Guidelines:",
+      "Experiments Compute Resources Question: For each experiment, does the paper provide sufficient information on the com- puter resources (type of compute workers, memory, time of execution) needed to reproduce the experiments? Answer: [Yes] Justification: For non-LLM experiment, the computing environment is reported in Ap- pendix C ( Ubuntu machine with 32GB of RAM and 2"
+    ],
+    "concern_snippets": [
+      "Experiments Compute Resources Question: For each experiment, does the paper provide sufficient information on the com- puter resources (type of compute workers, memory, time of execution) needed to reproduce the experiments? Answer: [Yes] Justification: We report the machine (type and storage) requirements in Appendix G",
+      "Experiments Compute Resources Question: For each experiment, does the paper provide sufficient information on the com- puter resources (type of compute workers, memory, time of execution) needed to reproduce the experiments? Answer: [Yes] Justification: [Yes] Guidelines:",
+      "Experiments Compute Resources Question: For each experiment, does the paper provide sufficient information on the com- puter resources (type of compute workers, memory, time of execution) needed to reproduce the experiments? Answer: [Yes] Justification: As mentioned in Section 4, all algorithms are tested on a laptop with 2"
+    ]
+  },
+  "13": {
+    "question_text": "Does the paper discuss potential misuse of the work?",
+    "category": "misuse_prevention",
+    "coverage": "945/1031",
+    "coverage_percent": 91.65858389912707,
+    "concerns_raised": 942,
+    "concern_percent": 91.36760426770127,
+    "example_snippets": [
+      "Examples of negative societal impacts include potential malicious or unintended uses (e",
+      "Examples of negative societal impacts include potential malicious or unintended uses (e",
+      "In addition, while our tools enable a malicious modeler to manipulate algorithmic fairness methods to amplify disparities instead of reducing them, for instance, by reversing the fairness constraint (replacing \u2264 with \u2265), the unfairness of a trained model can be detected by assessing it over a separate test set from the original dataset"
+    ],
+    "concern_snippets": [
+      "Examples of negative societal impacts include potential malicious or unintended uses (e",
+      "Examples of negative societal impacts include potential malicious or unintended uses (e",
+      "In addition, while our tools enable a malicious modeler to manipulate algorithmic fairness methods to amplify disparities instead of reducing them, for instance, by reversing the fairness constraint (replacing \u2264 with \u2265), the unfairness of a trained model can be detected by assessing it over a separate test set from the original dataset"
+    ]
+  },
+  "14": {
+    "question_text": "Could the paper have been published without releasing code or data?",
+    "category": "openness",
+    "coverage": "72/1031",
+    "coverage_percent": 6.9835111542192045,
+    "concerns_raised": 3,
+    "concern_percent": 0.2909796314258002,
+    "example_snippets": [
+      "Open access to data and code Question: Does the paper provide open access to the data and code, with sufficient instruc- tions to faithfully reproduce the main experimental results, as described in supplemental material? Answer: [Yes] Justification: The codebase is open source under MIT licence and is referenced in the methods section",
+      "Open access to data and code Question: Does the paper provide open access to the data and code, with sufficient instruc- tions to faithfully reproduce the main experimental results, as described in supplemental material? 25 Answer: [Yes] Justification: We will open source the code and data after the paper is accepted",
+      ", code, data, models), used in the paper, properly credited and are the license and terms of use explicitly mentioned and properly respected? Answer: [Yes] Justification: All resources used are open sources, with GNU General Public License v3"
+    ],
+    "concern_snippets": [
+      "Experimental Result Reproducibility Question: Does the paper fully disclose all the information needed to reproduce the main ex- perimental results of the paper to the extent that it affects the main claims and/or conclusions of the paper (regardless of whether the code and data are provided or not)? Answer: [Yes] Justification: The paper itself should include enough detail to reproduce our results with the open source SAM and Dreamerv3 models",
+      "The public availability of code and datasets further supports the paper\u2019s transparency and reproducibility",
+      "All of these are open source, no proprietary data was used in this work"
+    ]
+  },
+  "15": {
+    "question_text": "Does the paper specify all the training details (e.g., data splits, hyperparameters, how they were chosen)?",
+    "category": "reproducibility",
+    "coverage": "1013/1031",
+    "coverage_percent": 98.25412221144519,
+    "concerns_raised": 10,
+    "concern_percent": 0.9699321047526674,
+    "example_snippets": [
+      "Additional work is needed to adapt our approach to the case of LLM pre-training, which presents a different set of challenges, both in terms of implementation and optimization trajectory",
+      "For example, if the contribution is a novel architecture, describing the architecture fully might suffice, or if the contribution is a specific model and empirical evaluation, it may be necessary to either make it possible for others to replicate the model with the same dataset, or provide access to the model",
+      "For example, if the contribution is a novel architecture, describing the architecture fully might suffice, or if the contribution is a specific model and empirical evaluation, it may be necessary to either make it possible for others to replicate the model with the same dataset, or provide access to the model"
+    ],
+    "concern_snippets": [
+      "SMART: Robust and Efficient Fine-Tuning for Pre-Trained Natural Language Models through Principled Regularized Optimization",
+      "Contextual latent-movements off-policy optimization for robotic manipulation skills",
+      "The UNet is an encoder-decoder architecture where the encoder is made of residual blocks that produce progressively smaller feature maps, and the decoder progressively upsamples the feature maps and refines them using skip connections with the encoder [42]"
+    ]
+  }
+}
